@@ -11,3 +11,4 @@ median_score <- median(scores)
 # Display results
 print(average)
 print(median_score)
+### add notes
